@@ -1,4 +1,4 @@
-## Chesstimation
-#My chess Elo estimation project.
+# Chesstimation
+My chess Elo estimation project.
 
 More to come . . .
